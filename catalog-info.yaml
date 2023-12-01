@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ecs-aws-test"
+  description: "ecs-aws-test"
+  annotations:
+    github.com/project-slug: veecode-platform/ecs-aws-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: devops
+  lifecycle: development
+  owner: "group:default/admin"

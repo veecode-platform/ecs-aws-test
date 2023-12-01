@@ -1,0 +1,8 @@
+site_name: "ecs-aws-test"
+site_description: "ecs-aws-test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
